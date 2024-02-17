@@ -1,2 +1,2 @@
 # foryouR
-R
+R²
